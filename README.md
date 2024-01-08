@@ -1,8 +1,6 @@
-# 👨‍💻 **Developer Extraordinaire**
-
 ## Hey there! 👋
 
-I'm [Shashi Badhuk](https://www.linkedin.com/in/shashibadhuk/), a seasoned Technical Lead at [LEAD School](https://www.leadschool.in/) – where education meets innovation. With a decade of coding experience, I thrive on crafting robust web and mobile apps using cutting-edge tech.
+I'm [Shashi Badhuk](https://www.linkedin.com/in/shashibadhuk/) 👨‍💻, a seasoned Technical Lead at [LEAD School](https://www.leadschool.in/) – where education meets innovation. With a decade of coding experience, I thrive on crafting robust web and mobile apps using cutting-edge tech.
 
 ## 🚀 **Tech Stack Mastery**
 
